@@ -313,7 +313,7 @@ uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
                   > Product Quantity</label
                 >
                 <div class="col-sm-2">
-                <input type="number" class="form-control" id="rm_input" name="productQuantity" placeholder="1"  min="1" step="1" required>
+                <input type="number" class="form-control" name="productQuantity" placeholder="1"  min="1" step="1" required>
            
                   
                 </div>
